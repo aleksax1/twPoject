@@ -9,7 +9,7 @@ export default function Nav() {
                   <p className="text-xl text-white">Web Page</p>
               </div>
               <div className=" w-2/5 flex text-white justify-evenly items-center " >
-                  <Link to="/">HOME</Link>
+                  <Link to="/twPoject">HOME</Link>
                   <Link to="/about">ABOUT</Link>
                   <Link>BLOG</Link>
                   <button className="h-10 bg-orange-600 rounded-lg px-5">

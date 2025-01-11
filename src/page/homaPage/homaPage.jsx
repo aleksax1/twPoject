@@ -9,23 +9,23 @@ import profilPic from "./profilePic.png";
 export default function HomePage() {
   const comments = [
     {
-      title: "User 1",
+      title: "Mark",
       content: ["Great post!", "I really enjoyed reading this."],
     },
     {
-      title: "User 2",
+      title: "David",
       content: ["Interesting perspective.", "Thanks for sharing!"],
     },
     {
-      title: "User 3",
+      title: "Marc",
       content: ["Interesting perspective.", "Thanks for sharing!"],
     },
     {
-      title: "User 4",
+      title: "Marc",
       content: ["Interesting perspective.", "Thanks for sharing!"],
     },
     {
-      title: "User 5",
+      title: "Marc",
       content: ["Great post!", "I really enjoyed reading this."],
     },
   ];
@@ -51,7 +51,7 @@ export default function HomePage() {
               in <span className="text-red-600">less than 12days</span>{" "}
             </p>
             <p className="text-white">
-              Hey, I’m Mark Essein. A fullstack web developer with 7 years
+              Hey, Aleksa Jankovic A fullstack web developer with 1 years
               experience building successful websites and applications. I can
               build a high converting website for you as quick as possible!
             </p>
@@ -73,7 +73,7 @@ export default function HomePage() {
             <p className="text-3xl ">About me</p>
             <div className="bg-orange-800 h-0.5 w-full"></div>
             <p className="pt-6">
-              My passion for building websites started since 2013 and since then
+              My passion for building websites started since 2020 and since then
               i have helped companies around the world build amazing websites
               and products that create real value for the business and users. I
               enjoy solving problems with clean scalable solutions and I also
